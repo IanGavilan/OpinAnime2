@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838948865495",
+    "project_id": "opinanime-de9e3",
+    "storage_bucket": "opinanime-de9e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838948865495:android:7b3973c4d9a1b203b07792",
+        "android_client_info": {
+          "package_name": "com.santotomas.opinanime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QVCn_zfj514Nndu2x0gWc6mMc6PlgRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
